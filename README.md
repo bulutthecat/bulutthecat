@@ -7,7 +7,7 @@
 &emsp;
 
 - 🔭 I’m currently working on my website [based on JSLinux](https://bellard.org/jslinux/tech.html). 
-- 📚 I'm also doing Nvidia's [Data Parallelism course](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-MG-01+V3), a program aimed at enabling the training of Neural Networks on large scale hardware deployments designed by Nvidia in their [Deep Learning Institute](https://learn.nvidia.com/)
+- 📚 I'm also completing Nvidia's [Data Parallelism course](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-MG-01+V3), a program aimed at enabling the training of Neural Networks on large scale hardware deployments designed by Nvidia in their [Deep Learning Institute](https://learn.nvidia.com/)
 
 - 🌱 I’m currently learning **RISC-V Assembly, Large Language Models, Modern graphics rendering strategies**
 
