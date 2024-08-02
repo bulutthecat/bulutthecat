@@ -2,7 +2,7 @@
 ![banner](https://github.com/user-attachments/assets/677246cc-2104-49a7-a411-39c59cad582f)
 
 &emsp;
-<h3 align="left">Hi 👋, I'm Kevin, Developer working in the feild of High efficency compute. I have extensive experience working on bare metal environments and edge devices as an engineer and programmer.</h3>
+<h3 align="left">Hi 👋, I'm Kevin, a developer in the feild of High efficency compute. I have extensive experience working on bare metal environments and edge devices as an engineer and programmer.</h3>
 &emsp;
 
 &emsp;
