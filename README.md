@@ -45,13 +45,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<img alt="Kevins's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bulutthecat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Kevins's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulutthecat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-
 ### 🔥 Streak Stats
 
 ![Kevins's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=bulutthecat&theme=tokyonight)
